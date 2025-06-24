@@ -13,4 +13,6 @@ p{
 header{
     border-bottom: solid 2px blue;
     padding: 20px;
+    font-size: 30px;
+    color: orangered;
 }

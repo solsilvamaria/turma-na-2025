@@ -16,3 +16,9 @@ header{
     font-size: 30px;
     color: orangered;
 }
+section{
+    background-color: aquamarine;
+    padding-bottom: 80px;
+    padding-top: 80px;
+
+}

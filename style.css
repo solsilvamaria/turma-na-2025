@@ -17,8 +17,13 @@ header{
     color: orangered;
 }
 section{
-    background-color: rgb(255, 127, 240);
+    background-color: rgb(255, 206, 127);
     padding-bottom: 80px;
     padding-top: 80px;
+    display: flex;
+    justify-content: center;
 
+}
+.chamada ::-webkit-textfield-decoration-container{
+    margin-right: 5%;
 }

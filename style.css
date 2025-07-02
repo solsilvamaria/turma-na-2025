@@ -24,6 +24,6 @@ section{
     justify-content: center;
 
 }
-.chamada ::-webkit-textfield-decoration-container{
+.chamada.texto{
     margin-right: 5%;
 }

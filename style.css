@@ -21,9 +21,8 @@ section{
     padding-bottom: 80px;
     padding-top: 80px;
     display: flex;
-    overflow-x: auto;
-    gap: 10px;
     justify-content: center;
+    
 
 }
 .chamada.texto{
@@ -37,4 +36,9 @@ img{
 }
 image{
     height: 200px;
+}
+.categoria video{
+    display: flex;
+    overflow-x: auto;
+    gap: 10px;
 }

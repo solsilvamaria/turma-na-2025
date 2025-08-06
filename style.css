@@ -23,11 +23,7 @@ section{
     display: flex;
     justify-content: center;
 }
-.categoria-video{
-    display: flex;
-    overflow-x: auto;
-    gap: 10px;
-}
+
 .chamada.texto{
     margin-right: 5%;
 }
@@ -41,5 +37,7 @@ image{
     height: 200px;
 }
 .categoria-video{ 
+    display: flex;
+    overflow-x: auto;
 
 }
